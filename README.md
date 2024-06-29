@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @semiubiliaminu
+- 👋 Hi, I’m Semiu Biliaminu
 - 👀 I’m interested in Web Development, Data Analytics and AI
 - 🌱 I’m currently learning Data engineering and DevOps 
 - 💞️ I’m looking to collaborate on Data pipeline ochestration project and web development
